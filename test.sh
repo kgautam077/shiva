@@ -1,1 +1,1 @@
-echo "hello jenkins i want to learn"
+echo "hi jenkins i want to learn"
